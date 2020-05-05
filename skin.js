@@ -1,7 +1,7 @@
 // Garden Gnome Software - Skin
 // Pano2VR 6.1.5/17926
 // Filename: Expo_White_1.ggsk
-// Generated 2020-05-05T16:21:42
+// Generated 2020-05-05T16:55:05
 
 function pano2vrSkin(player,base) {
 	player.addVariable('opt_hotspot_preview', 2, false);
