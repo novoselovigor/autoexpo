@@ -1,127 +1,127 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<tour apprev="17926" start="node4" appversion="6.1.5">
-  <panorama hideabout="1" id="node4">
-    <input levelingroll="0" levelbias="0.400" leveltileurl="tiles/node4/cf_%c/l_%l/c_%x/tile_%y.jpg" width="2048" overlap="1" height="2048" leveltilesize="510" levelbiashidpi="1.000" levelingpitch="0">
-      <level width="2048" predecode="0" height="2048" preload="0"/>
-      <level width="1024" predecode="0" height="1024" preload="0"/>
-      <level width="512" predecode="0" height="512" preload="0"/>
-      <level width="256" predecode="1" height="256" preload="1"/>
-      <preview strip="1" color="0x808080"/>
+<tour appversion="6.1.5" apprev="17926" start="node4">
+  <panorama id="node4" hideabout="1">
+    <input levelingroll="0" height="2048" leveltilesize="510" width="2048" levelbias="0.400" overlap="1" levelingpitch="0" levelbiashidpi="1.000" leveltileurl="tiles/node4/cf_%c/l_%l/c_%x/tile_%y.jpg">
+      <level height="2048" predecode="0" preload="0" width="2048"/>
+      <level height="1024" predecode="0" preload="0" width="1024"/>
+      <level height="512" predecode="0" preload="0" width="512"/>
+      <level height="256" predecode="1" preload="1" width="256"/>
+      <preview color="0x808080" strip="1"/>
     </input>
-    <view fovmode="0" pannorth="0">
-      <start projection="4" fov="70" pan="0" tilt="0"/>
-      <flyin projection="9" fov="170" pan="0" tilt="-90"/>
+    <view pannorth="0" fovmode="0">
+      <start fov="70" pan="0" tilt="0" projection="4"/>
+      <flyin fov="170" pan="0" tilt="-90" projection="9"/>
       <min fovpixel="2" pan="-77.6" tilt="-37.4"/>
-      <max fovstereographic="270" fov="120" pan="81.1" tilt="32.6" scaletofit="1" fovfisheye="360"/>
+      <max fov="120" fovstereographic="270" fovfisheye="360" scaletofit="1" pan="81.1" tilt="32.6"/>
     </view>
-    <userdata datetime="" comment="" latitude="" copyright="" source="" author="" longitude="" title="station3 - Messestand" heading="0" info="" nodeid="node4" tags="Desktop" customnodeid="" description=""/>
-    <hotspots width="180" wordwrap="1" height="20">
-      <label width="180" textcolor="0x000000" border="1" borderalpha="1" borderradius="1" enabled="1" wordwrap="1" height="20" background="1" textalpha="1" bordercolor="0x000000" backgroundalpha="1" backgroundcolor="0xffffff"/>
-      <polystyle handcursor="1" borderalpha="1" mode="0" bordercolor="0x0000ff" backgroundalpha="0.25098" backgroundcolor="0x0000ff"/>
-      <hotspot skinid="welcome" title="Willkommen!" target="" pan="11.24" tilt="-13.6" id="Point01" url="" description="Hallo und herzlich Willkommen auf unserem virtuellen Messestand!&#xa;&#xa;Ich bin Ihre Ansprechpartnerin Julia bei station3.&#xa;&#xa;Wenn Sie Fragen zu einem unserer Produkte oder zu unseren Dienstleistungen haben, können Sie mich gerne kontaktieren unter 0178178187 /  julia@station3.de.&#xa;&#xa;Ich wünsche Ihnen viel Vergnügen bei Ihrem Rundgang!"/>
+    <userdata comment="" latitude="" title="station3 - Messestand" info="" nodeid="node4" tags="Desktop" description="" author="" copyright="" datetime="" heading="0" source="" longitude="" customnodeid=""/>
+    <hotspots height="20" width="180" wordwrap="1">
+      <label enabled="1" bordercolor="0x000000" height="20" backgroundcolor="0xffffff" borderalpha="1" textcolor="0x000000" border="1" textalpha="1" width="180" background="1" borderradius="1" wordwrap="1" backgroundalpha="1"/>
+      <polystyle bordercolor="0x0000ff" backgroundcolor="0x0000ff" borderalpha="1" handcursor="1" mode="0" backgroundalpha="0.25098"/>
+      <hotspot id="Point01" target="" title="Willkommen!" url="" description="Hallo und herzlich Willkommen auf unserem virtuellen Messestand!&#xa;&#xa;Ich bin Ihre Ansprechpartnerin Julia bei station3.&#xa;&#xa;Wenn Sie Fragen zu einem unserer Produkte oder zu unseren Dienstleistungen haben, können Sie mich gerne kontaktieren unter 0178178187 /  julia@station3.de.&#xa;&#xa;Ich wünsche Ihnen viel Vergnügen bei Ihrem Rundgang!" skinid="welcome" pan="11.24" tilt="-13.6"/>
     </hotspots>
     <media/>
-    <transition zoomfov="20" zoomout="0" blendcolor="0x000000" type="crossdissolve" enabled="1" zoomin="0" zoomoutpause="1" blendtime="1" softedge="0" zoomspeed="1"/>
-    <animation syncanimationwithvideo="0" animsequence="Animation01" useinautorotation="0">
-      <clip length="100" animtitle="Animation01" cliptitle="Clip01" transitiontype="0" nodeid="" nextclipnodeid="node4" nextcliptitle="Clip01" nextclipstartview="0/0/70/4" animtype="0">
-        <keyframe valuestring="" property="0" time="0" type="0" transitiontime="0" additionaltrackid="" value="0"/>
-        <keyframe valuestring="" property="1" time="0" type="0" transitiontime="0" additionaltrackid="" value="0"/>
-        <keyframe valuestring="" property="2" time="0" type="0" transitiontime="0" additionaltrackid="" value="70"/>
-        <keyframe valuestring="" property="3" time="0" type="0" transitiontime="0" additionaltrackid="" value="4"/>
-        <keyframe bezierouttime="10020" valuestring="" property="0" time="20" type="2" transitiontime="0" bezierinvalue="-15" bezierintime="14" additionaltrackid="" value="-15" bezieroutvalue="-15"/>
+    <transition enabled="1" blendtime="1" blendcolor="0x000000" zoomin="0" zoomspeed="1" zoomfov="20" zoomoutpause="1" type="crossdissolve" zoomout="0" softedge="0"/>
+    <animation animsequence="Animation01" useinautorotation="0" syncanimationwithvideo="0">
+      <clip animtype="0" nodeid="" nextcliptitle="Clip01" nextclipnodeid="node4" nextclipstartview="0/0/70/4" transitiontype="0" animtitle="Animation01" cliptitle="Clip01" length="100">
+        <keyframe valuestring="" time="0" value="0" transitiontime="0" additionaltrackid="" type="0" property="0"/>
+        <keyframe valuestring="" time="0" value="0" transitiontime="0" additionaltrackid="" type="0" property="1"/>
+        <keyframe valuestring="" time="0" value="70" transitiontime="0" additionaltrackid="" type="0" property="2"/>
+        <keyframe valuestring="" time="0" value="4" transitiontime="0" additionaltrackid="" type="0" property="3"/>
+        <keyframe valuestring="" bezierouttime="10020" bezierintime="14" time="20" value="-15" transitiontime="0" bezierinvalue="-15" additionaltrackid="" bezieroutvalue="-15" type="2" property="0"/>
       </clip>
     </animation>
-    <control rubberband="1" lockedmouse="0" lockedwheel="0" lockedkeyboard="0" contextprojections="0" sensitivity="8" contextfullscreen="1" simulatemass="1" lockedkeyboardzoom="0" hideabout="1" invertwheel="0" invertcontrol="1" speedwheel="1" dblclickfullscreen="0"/>
+    <control hideabout="1" simulatemass="1" lockedmouse="0" invertwheel="0" lockedkeyboard="0" lockedkeyboardzoom="0" sensitivity="8" rubberband="1" speedwheel="1" lockedwheel="0" contextfullscreen="1" contextprojections="0" dblclickfullscreen="0" invertcontrol="1"/>
   </panorama>
-  <panorama hideabout="1" id="node1">
-    <input levelingroll="0" levelbias="0.400" leveltileurl="tiles/node1/cf_%c/l_%l/c_%x/tile_%y.jpg" width="2048" overlap="1" height="2048" leveltilesize="510" levelbiashidpi="1.000" levelingpitch="0">
-      <level width="2048" predecode="0" height="2048" preload="0"/>
-      <level width="1024" predecode="0" height="1024" preload="0"/>
-      <level width="512" predecode="0" height="512" preload="0"/>
-      <level width="256" predecode="1" height="256" preload="1"/>
-      <preview strip="1" color="0x808080"/>
+  <panorama id="node1" hideabout="1">
+    <input levelingroll="0" height="2048" leveltilesize="510" width="2048" levelbias="0.400" overlap="1" levelingpitch="0" levelbiashidpi="1.000" leveltileurl="tiles/node1/cf_%c/l_%l/c_%x/tile_%y.jpg">
+      <level height="2048" predecode="0" preload="0" width="2048"/>
+      <level height="1024" predecode="0" preload="0" width="1024"/>
+      <level height="512" predecode="0" preload="0" width="512"/>
+      <level height="256" predecode="1" preload="1" width="256"/>
+      <preview color="0x808080" strip="1"/>
     </input>
-    <view fovmode="0" pannorth="0">
-      <start projection="4" fov="70" pan="0" tilt="0"/>
-      <flyin projection="9" fov="170" pan="0" tilt="-90"/>
+    <view pannorth="0" fovmode="0">
+      <start fov="70" pan="0" tilt="0" projection="4"/>
+      <flyin fov="170" pan="0" tilt="-90" projection="9"/>
       <min fovpixel="2" pan="0" tilt="-90"/>
-      <max fovstereographic="270" fov="120" pan="360" tilt="90" scaletofit="1" fovfisheye="360"/>
+      <max fov="120" fovstereographic="270" fovfisheye="360" scaletofit="1" pan="360" tilt="90"/>
     </view>
-    <userdata datetime="" comment="" latitude="" copyright="" source="" author="" longitude="" title="" heading="0" info="" nodeid="node1" tags="Desktop" customnodeid="" description=""/>
-    <hotspots width="180" wordwrap="1" height="20">
-      <label width="180" textcolor="0x000000" border="1" borderalpha="1" borderradius="1" enabled="1" wordwrap="1" height="20" background="1" textalpha="1" bordercolor="0x000000" backgroundalpha="1" backgroundcolor="0xffffff"/>
-      <polystyle handcursor="1" borderalpha="1" mode="0" bordercolor="0x0000ff" backgroundalpha="0.25098" backgroundcolor="0x0000ff"/>
-      <hotspot skinid="ht_node_1" title="" target="" pan="-345.37" tilt="-9.49" id="Produkt 1" url="{node2}" description=""/>
-      <hotspot skinid="ht_node_1" title="" target="" pan="-9.46" tilt="-7.07" id="Produkt" url="{node2}" description=""/>
+    <userdata comment="" latitude="" title="" info="" nodeid="node1" tags="Desktop" description="" author="" copyright="" datetime="" heading="0" source="" longitude="" customnodeid=""/>
+    <hotspots height="20" width="180" wordwrap="1">
+      <label enabled="1" bordercolor="0x000000" height="20" backgroundcolor="0xffffff" borderalpha="1" textcolor="0x000000" border="1" textalpha="1" width="180" background="1" borderradius="1" wordwrap="1" backgroundalpha="1"/>
+      <polystyle bordercolor="0x0000ff" backgroundcolor="0x0000ff" borderalpha="1" handcursor="1" mode="0" backgroundalpha="0.25098"/>
+      <hotspot id="Produkt 1" target="" title="" url="{node2}" description="" skinid="ht_node_1" pan="-345.28" tilt="-9.48"/>
+      <hotspot id="Produkt" target="" title="" url="{node2}" description="" skinid="ht_node_1" pan="-9.46" tilt="-7.07"/>
     </hotspots>
     <media/>
-    <transition zoomfov="20" zoomout="0" blendcolor="0x000000" type="crossdissolve" enabled="1" zoomin="0" zoomoutpause="1" blendtime="1" softedge="0" zoomspeed="1"/>
-    <animation syncanimationwithvideo="0" animsequence="Animation01" useinautorotation="0"/>
-    <control rubberband="1" lockedmouse="0" lockedwheel="0" lockedkeyboard="0" contextprojections="0" sensitivity="8" contextfullscreen="1" simulatemass="1" lockedkeyboardzoom="0" hideabout="1" invertwheel="0" invertcontrol="1" speedwheel="1" dblclickfullscreen="0"/>
+    <transition enabled="1" blendtime="1" blendcolor="0x000000" zoomin="0" zoomspeed="1" zoomfov="20" zoomoutpause="1" type="crossdissolve" zoomout="0" softedge="0"/>
+    <animation animsequence="Animation01" useinautorotation="0" syncanimationwithvideo="0"/>
+    <control hideabout="1" simulatemass="1" lockedmouse="0" invertwheel="0" lockedkeyboard="0" lockedkeyboardzoom="0" sensitivity="8" rubberband="1" speedwheel="1" lockedwheel="0" contextfullscreen="1" contextprojections="0" dblclickfullscreen="0" invertcontrol="1"/>
   </panorama>
-  <panorama hideabout="1" id="node2">
-    <input levelingroll="0" levelbias="0.400" leveltileurl="tiles/node2/cf_%c/l_%l/c_%x/tile_%y.jpg" width="2048" overlap="1" height="2048" leveltilesize="510" levelbiashidpi="1.000" levelingpitch="0">
-      <level width="2048" predecode="0" height="2048" preload="0"/>
-      <level width="1024" predecode="0" height="1024" preload="0"/>
-      <level width="512" predecode="0" height="512" preload="0"/>
-      <level width="256" predecode="1" height="256" preload="1"/>
-      <preview strip="1" color="0x808080"/>
+  <panorama id="node2" hideabout="1">
+    <input levelingroll="0" height="2048" leveltilesize="510" width="2048" levelbias="0.400" overlap="1" levelingpitch="0" levelbiashidpi="1.000" leveltileurl="tiles/node2/cf_%c/l_%l/c_%x/tile_%y.jpg">
+      <level height="2048" predecode="0" preload="0" width="2048"/>
+      <level height="1024" predecode="0" preload="0" width="1024"/>
+      <level height="512" predecode="0" preload="0" width="512"/>
+      <level height="256" predecode="1" preload="1" width="256"/>
+      <preview color="0x808080" strip="1"/>
     </input>
-    <view fovmode="0" pannorth="0">
-      <start projection="4" fov="70" pan="0" tilt="0"/>
-      <flyin projection="9" fov="170" pan="0" tilt="-90"/>
+    <view pannorth="0" fovmode="0">
+      <start fov="70" pan="0" tilt="0" projection="4"/>
+      <flyin fov="170" pan="0" tilt="-90" projection="9"/>
       <min fovpixel="2" pan="0" tilt="-90"/>
-      <max fovstereographic="270" fov="120" pan="360" tilt="90" scaletofit="1" fovfisheye="360"/>
+      <max fov="120" fovstereographic="270" fovfisheye="360" scaletofit="1" pan="360" tilt="90"/>
     </view>
-    <userdata datetime="" comment="" latitude="" copyright="" source="" author="" longitude="" title="" heading="0" info="" nodeid="node2" tags="Desktop" customnodeid="" description=""/>
-    <hotspots width="180" wordwrap="1" height="20">
-      <label width="180" textcolor="0x000000" border="1" borderalpha="1" borderradius="1" enabled="1" wordwrap="1" height="20" background="1" textalpha="1" bordercolor="0x000000" backgroundalpha="1" backgroundcolor="0xffffff"/>
-      <polystyle handcursor="1" borderalpha="1" mode="0" bordercolor="0x0000ff" backgroundalpha="0.25098" backgroundcolor="0x0000ff"/>
-      <hotspot skinid="ht_node_1" title="Willkommen" target="" pan="-112.57" tilt="1.64" id="Point01" url="{node1}" description=""/>
-      <hotspot skinid="ht_video_file" title="Showreel" target="" pan="-261.55" tilt="-6.96" id="Showreel" url="media/video01.mp4" description=""/>
-      <hotspot skinid="ht_url" title="Mustermagazin, 1" target="_blank" pan="-264.01" tilt="-32.65" id="Point03" url="PDF/Mustermagazin-1.pdf" description=""/>
-      <hotspot skinid="ht_info" title="Info" target="_blank" pan="-240.42" tilt="-29.77" id="Point05" url="" description="station3GmbH - die innovative Agentur, die gerne Großesbewegt. Und Kunden aus diversen Branchen vertrauen auf uns: Als Lead-Agentur betreuen wir den Digital-Etat von Mercedes-Benz Own Retail Deutschland für Transporter und Vans. Ganz egal, ob Webdesign oder -entwicklung, digitales Kampagnenmanagement oder CRM – die Marke liegt uns sehr und wir freuen uns über viele spannende und zukunftsweisende Projekte. Aber auch im Immobiliensektor haben wir uns zu Experten entwickelt. Von Markenbildung bis hin zu innovativen Vertriebsstrategien unterstützen wir unsere Kunden und verschaffen ihnen immer den bestmöglichen Auftritt.&#xa;&#xa;Fernab von Automotive und Real Estate freuen wir uns sehr über die &#xa;Zusammenarbeit mit dem Bistum Aachen und dem Nell-Breuning-Haus. Nach zwei gewonnenen Ausschreibungen erarbeiten wir umfangreiche Kommunikationsstrategien, die sich um die Themen „Bekämpfung von Sexismus in Unternehmen“ und „Prävention von Radikalisierung bei der Bundeswehr“ drehen. Eine sehr anspruchsvolle und tolle Aufgabe!"/>
-      <hotspot skinid="ht_url" title="Mustermagazin, 2" target="_blank" pan="-277.43" tilt="-32.61" id="Point03" url="PDF/Mustermagazin-2.pdf" description=""/>
-      <hotspot skinid="ht_url" title="Mustermagazin, 3" target="_blank" pan="-290.1" tilt="-31.13" id="Point03" url="PDF/Mustermagazin-3.pdf" description=""/>
+    <userdata comment="" latitude="" title="" info="" nodeid="node2" tags="Desktop" description="" author="" copyright="" datetime="" heading="0" source="" longitude="" customnodeid=""/>
+    <hotspots height="20" width="180" wordwrap="1">
+      <label enabled="1" bordercolor="0x000000" height="20" backgroundcolor="0xffffff" borderalpha="1" textcolor="0x000000" border="1" textalpha="1" width="180" background="1" borderradius="1" wordwrap="1" backgroundalpha="1"/>
+      <polystyle bordercolor="0x0000ff" backgroundcolor="0x0000ff" borderalpha="1" handcursor="1" mode="0" backgroundalpha="0.25098"/>
+      <hotspot id="Point01" target="" title="Willkommen" url="{node1}" description="" skinid="ht_node_1" pan="-112.57" tilt="1.64"/>
+      <hotspot id="Showreel" target="" title="Showreel" url="media/video01.mp4" description="" skinid="ht_video_file" pan="-261.55" tilt="-6.96"/>
+      <hotspot id="Point03" target="_blank" title="Mustermagazin, 1" url="PDF/Mustermagazin-1.pdf" description="" skinid="ht_url" pan="-264.01" tilt="-32.65"/>
+      <hotspot id="Point05" target="_blank" title="Info" url="" description="station3GmbH - die innovative Agentur, die gerne Großesbewegt. Und Kunden aus diversen Branchen vertrauen auf uns: Als Lead-Agentur betreuen wir den Digital-Etat von Mercedes-Benz Own Retail Deutschland für Transporter und Vans. Ganz egal, ob Webdesign oder -entwicklung, digitales Kampagnenmanagement oder CRM – die Marke liegt uns sehr und wir freuen uns über viele spannende und zukunftsweisende Projekte. Aber auch im Immobiliensektor haben wir uns zu Experten entwickelt. Von Markenbildung bis hin zu innovativen Vertriebsstrategien unterstützen wir unsere Kunden und verschaffen ihnen immer den bestmöglichen Auftritt.&#xa;&#xa;Fernab von Automotive und Real Estate freuen wir uns sehr über die &#xa;Zusammenarbeit mit dem Bistum Aachen und dem Nell-Breuning-Haus. Nach zwei gewonnenen Ausschreibungen erarbeiten wir umfangreiche Kommunikationsstrategien, die sich um die Themen „Bekämpfung von Sexismus in Unternehmen“ und „Prävention von Radikalisierung bei der Bundeswehr“ drehen. Eine sehr anspruchsvolle und tolle Aufgabe!" skinid="ht_info" pan="-240.42" tilt="-29.77"/>
+      <hotspot id="Point03" target="_blank" title="Mustermagazin, 2" url="PDF/Mustermagazin-2.pdf" description="" skinid="ht_url" pan="-277.43" tilt="-32.61"/>
+      <hotspot id="Point03" target="_blank" title="Mustermagazin, 3" url="PDF/Mustermagazin-3.pdf" description="" skinid="ht_url" pan="-290.1" tilt="-31.13"/>
     </hotspots>
     <media>
-      <lensflare type="2" alpha="80.000" pan="-20.570" tilt="42.380" blinding="50.000" color="0xffffff" id="Lensflare02"/>
+      <lensflare id="Lensflare02" color="0xffffff" blinding="50.000" alpha="80.000" type="2" pan="-20.570" tilt="42.380"/>
     </media>
-    <transition zoomfov="20" zoomout="0" blendcolor="0x000000" type="crossdissolve" enabled="1" zoomin="0" zoomoutpause="1" blendtime="1" softedge="0" zoomspeed="1"/>
-    <animation syncanimationwithvideo="0" animsequence="Animation01" useinautorotation="0"/>
-    <control rubberband="1" lockedmouse="0" lockedwheel="0" lockedkeyboard="0" contextprojections="0" sensitivity="8" contextfullscreen="1" simulatemass="1" lockedkeyboardzoom="0" hideabout="1" invertwheel="0" invertcontrol="1" speedwheel="1" dblclickfullscreen="0"/>
+    <transition enabled="1" blendtime="1" blendcolor="0x000000" zoomin="0" zoomspeed="1" zoomfov="20" zoomoutpause="1" type="crossdissolve" zoomout="0" softedge="0"/>
+    <animation animsequence="Animation01" useinautorotation="0" syncanimationwithvideo="0"/>
+    <control hideabout="1" simulatemass="1" lockedmouse="0" invertwheel="0" lockedkeyboard="0" lockedkeyboardzoom="0" sensitivity="8" rubberband="1" speedwheel="1" lockedwheel="0" contextfullscreen="1" contextprojections="0" dblclickfullscreen="0" invertcontrol="1"/>
   </panorama>
-  <panorama hideabout="1" id="node5">
-    <input levelingroll="0" levelbias="0.400" leveltileurl="tiles/node5/cf_%c/l_%l/c_%x/tile_%y.jpg" width="2048" overlap="1" height="2048" leveltilesize="510" levelbiashidpi="1.000" levelingpitch="0">
-      <level width="2048" predecode="0" height="2048" preload="0"/>
-      <level width="1024" predecode="0" height="1024" preload="0"/>
-      <level width="512" predecode="0" height="512" preload="0"/>
-      <level width="256" predecode="1" height="256" preload="1"/>
-      <preview strip="1" color="0x808080"/>
+  <panorama id="node5" hideabout="1">
+    <input levelingroll="0" height="2048" leveltilesize="510" width="2048" levelbias="0.400" overlap="1" levelingpitch="0" levelbiashidpi="1.000" leveltileurl="tiles/node5/cf_%c/l_%l/c_%x/tile_%y.jpg">
+      <level height="2048" predecode="0" preload="0" width="2048"/>
+      <level height="1024" predecode="0" preload="0" width="1024"/>
+      <level height="512" predecode="0" preload="0" width="512"/>
+      <level height="256" predecode="1" preload="1" width="256"/>
+      <preview color="0x808080" strip="1"/>
     </input>
-    <view fovmode="0" pannorth="0">
-      <start projection="4" fov="70" pan="0" tilt="0"/>
-      <flyin projection="9" fov="170" pan="0" tilt="-90"/>
+    <view pannorth="0" fovmode="0">
+      <start fov="70" pan="0" tilt="0" projection="4"/>
+      <flyin fov="170" pan="0" tilt="-90" projection="9"/>
       <min fovpixel="2" pan="0" tilt="-90"/>
-      <max fovstereographic="270" fov="120" pan="360" tilt="90" scaletofit="1" fovfisheye="360"/>
+      <max fov="120" fovstereographic="270" fovfisheye="360" scaletofit="1" pan="360" tilt="90"/>
     </view>
-    <userdata datetime="" comment="" latitude="" copyright="" source="" author="" longitude="" title="" heading="0" info="" nodeid="node5" tags="Desktop" customnodeid="" description=""/>
-    <hotspots width="180" wordwrap="1" height="20">
-      <label width="180" textcolor="0x000000" border="1" borderalpha="1" borderradius="1" enabled="1" wordwrap="1" height="20" background="1" textalpha="1" bordercolor="0x000000" backgroundalpha="1" backgroundcolor="0xffffff"/>
-      <polystyle handcursor="1" borderalpha="1" mode="0" bordercolor="0x0000ff" backgroundalpha="0.25098" backgroundcolor="0x0000ff"/>
-      <hotspot skinid="ht_player" title="" target="_blank" pan="-354.75" tilt="-20.42" id="Point01" url="" description=""/>
-      <hotspot skinid="ht_url" title="Mustermagazin, 1" target="_blank" pan="-264.56" tilt="-32.33" id="Point03" url="PDF/Mustermagazin-1.pdf" description=""/>
-      <hotspot skinid="ht_url" title="Mustermagazin, 1" target="_blank" pan="-277.95" tilt="-32.64" id="Point03" url="PDF/Mustermagazin-2.pdf" description=""/>
-      <hotspot skinid="ht_url" title="Mustermagazin, 1" target="_blank" pan="-290.37" tilt="-31.09" id="Point03" url="PDF/Mustermagazin-3.pdf" description=""/>
+    <userdata comment="" latitude="" title="" info="" nodeid="node5" tags="Desktop" description="" author="" copyright="" datetime="" heading="0" source="" longitude="" customnodeid=""/>
+    <hotspots height="20" width="180" wordwrap="1">
+      <label enabled="1" bordercolor="0x000000" height="20" backgroundcolor="0xffffff" borderalpha="1" textcolor="0x000000" border="1" textalpha="1" width="180" background="1" borderradius="1" wordwrap="1" backgroundalpha="1"/>
+      <polystyle bordercolor="0x0000ff" backgroundcolor="0x0000ff" borderalpha="1" handcursor="1" mode="0" backgroundalpha="0.25098"/>
+      <hotspot id="Point01" target="_blank" title="" url="" description="" skinid="ht_player" pan="-354.75" tilt="-20.42"/>
+      <hotspot id="Point03" target="_blank" title="Mustermagazin, 1" url="PDF/Mustermagazin-1.pdf" description="" skinid="ht_url" pan="-264.56" tilt="-32.33"/>
+      <hotspot id="Point03" target="_blank" title="Mustermagazin, 1" url="PDF/Mustermagazin-2.pdf" description="" skinid="ht_url" pan="-277.95" tilt="-32.64"/>
+      <hotspot id="Point03" target="_blank" title="Mustermagazin, 1" url="PDF/Mustermagazin-3.pdf" description="" skinid="ht_url" pan="-290.37" tilt="-31.09"/>
     </hotspots>
     <media>
-      <lensflare type="2" alpha="80.000" pan="-17.860" tilt="42.980" blinding="50.000" color="0xffffff" id="Lensflare02"/>
+      <lensflare id="Lensflare02" color="0xffffff" blinding="50.000" alpha="80.000" type="2" pan="-17.860" tilt="42.980"/>
     </media>
-    <transition zoomfov="20" zoomout="0" blendcolor="0x000000" type="crossdissolve" enabled="1" zoomin="0" zoomoutpause="1" blendtime="1" softedge="0" zoomspeed="1"/>
-    <animation syncanimationwithvideo="0" animsequence="Animation01" useinautorotation="0"/>
-    <control rubberband="1" lockedmouse="0" lockedwheel="0" lockedkeyboard="0" contextprojections="0" sensitivity="8" contextfullscreen="1" simulatemass="1" lockedkeyboardzoom="0" hideabout="1" invertwheel="0" invertcontrol="1" speedwheel="1" dblclickfullscreen="0"/>
+    <transition enabled="1" blendtime="1" blendcolor="0x000000" zoomin="0" zoomspeed="1" zoomfov="20" zoomoutpause="1" type="crossdissolve" zoomout="0" softedge="0"/>
+    <animation animsequence="Animation01" useinautorotation="0" syncanimationwithvideo="0"/>
+    <control hideabout="1" simulatemass="1" lockedmouse="0" invertwheel="0" lockedkeyboard="0" lockedkeyboardzoom="0" sensitivity="8" rubberband="1" speedwheel="1" lockedwheel="0" contextfullscreen="1" contextprojections="0" dblclickfullscreen="0" invertcontrol="1"/>
   </panorama>
   <masternode>
-    <userdata datetime="" comment="" latitude="" copyright="" source="" author="" longitude="" title="" heading="0" info="" nodeid="master" tags="" customnodeid="" description=""/>
+    <userdata comment="" latitude="" title="" info="" nodeid="master" tags="" description="" author="" copyright="" datetime="" heading="0" source="" longitude="" customnodeid=""/>
   </masternode>
 </tour>
