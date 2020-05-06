@@ -1,7 +1,7 @@
 // Garden Gnome Software - Skin
 // Object2VR 3.1.8/10781
 // Filename: default_loading.ggsk
-// Generated Wed May 6 17:57:17 2020
+// Generated Wed May 6 18:03:26 2020
 
 function object2vrSkin(player,base) {
 	var me=this;
