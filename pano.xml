@@ -52,7 +52,7 @@
       <label background="1" borderradius="1" enabled="1" bordercolor="0x000000" backgroundcolor="0xffffff" height="20" backgroundalpha="1" border="1" textcolor="0x000000" borderalpha="1" width="180" textalpha="1" wordwrap="1"/>
       <polystyle mode="0" handcursor="1" bordercolor="0x0000ff" backgroundcolor="0x0000ff" backgroundalpha="0.25098" borderalpha="1"/>
       <hotspot title="" pan="-345.28" target="" skinid="ht_node_1" tilt="-9.48" description="" url="{node2}" id="Produkt 1"/>
-      <hotspot title="" pan="-9.46" target="" skinid="ht_node_1" tilt="-7.07" description="" url="{node2}" id="Produkt"/>
+      <hotspot title="" pan="-9.46" target="" skinid="ht_node_1" tilt="-7.07" description="" url="{node5}" id="Produkt"/>
     </hotspots>
     <media/>
     <transition blendcolor="0x000000" zoomoutpause="1" zoomout="0" enabled="1" zoomin="0" softedge="0" type="crossdissolve" zoomfov="20" zoomspeed="1" blendtime="1"/>
