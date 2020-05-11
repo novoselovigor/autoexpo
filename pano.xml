@@ -9,7 +9,7 @@
       <preview strip="1" color="0x808080"/>
     </input>
     <view fovmode="0" pannorth="0">
-      <start pan="0" fov="70" tilt="0" projection="4"/>
+      <start pan="0" fov="76" tilt="0" projection="4"/>
       <flyin pan="0" fov="170" tilt="-90" projection="9"/>
       <min pan="-77.6" fovpixel="2" tilt="-37.4"/>
       <max pan="81.1" fovfisheye="360" fov="120" fovstereographic="270" tilt="32.6" scaletofit="1"/>
@@ -42,7 +42,7 @@
       <preview strip="1" color="0x808080"/>
     </input>
     <view fovmode="0" pannorth="0">
-      <start pan="0" fov="70" tilt="0" projection="4"/>
+      <start pan="0" fov="76" tilt="0" projection="4"/>
       <flyin pan="0" fov="170" tilt="-90" projection="9"/>
       <min pan="0" fovpixel="2" tilt="-90"/>
       <max pan="360" fovfisheye="360" fov="120" fovstereographic="270" tilt="90" scaletofit="1"/>
@@ -68,7 +68,7 @@
       <preview strip="1" color="0x808080"/>
     </input>
     <view fovmode="0" pannorth="0">
-      <start pan="0" fov="70" tilt="0" projection="4"/>
+      <start pan="0" fov="76" tilt="0" projection="4"/>
       <flyin pan="0" fov="170" tilt="-90" projection="9"/>
       <min pan="0" fovpixel="2" tilt="-90"/>
       <max pan="360" fovfisheye="360" fov="120" fovstereographic="270" tilt="90" scaletofit="1"/>
@@ -78,7 +78,7 @@
       <label background="1" borderradius="1" enabled="1" bordercolor="0x000000" backgroundcolor="0xffffff" height="20" backgroundalpha="1" border="1" textcolor="0x000000" borderalpha="1" width="180" textalpha="1" wordwrap="1"/>
       <polystyle mode="0" handcursor="1" bordercolor="0x0000ff" backgroundcolor="0x0000ff" backgroundalpha="0.25098" borderalpha="1"/>
       <hotspot title="Willkommen" pan="-112.57" target="" skinid="ht_node_1" tilt="1.64" description="" url="{node1}" id="Point01"/>
-      <hotspot title="Showreel" pan="-261.55" target="" skinid="ht_video_file" tilt="-6.96" description="" url="media/video01.mp4" id="Showreel"/>
+      <hotspot title="Showreel" pan="-266.07" target="" skinid="ht_video_file" tilt="-10.7" description="" url="media/video01.mp4" id="Showreel"/>
       <hotspot title="Mustermagazin, 1" pan="-264.01" target="_blank" skinid="ht_url" tilt="-32.65" description="" url="PDF/Mustermagazin-1.pdf" id="Point03"/>
       <hotspot title="Info" pan="-240.42" target="_blank" skinid="ht_info" tilt="-29.77" description="Wir sind das iq digital brandstudio. Mit Erfahrung, Expertise und einem Funken Wahnsinn kreieren wir Ihre Kampagne. Natürlich immer zugeschnitten auf Ihre Bedürfnisse und Kommunikationsziele. Für alle, die nachhaltig und begeisternd kommunizieren wollen, sind wir der richtige Partner – vom Konzept über die Distribution bis hin zum Reporting. Und am liebsten legen wir sofort los!" url="" id="Point05"/>
       <hotspot title="Mustermagazin, 2" pan="-277.43" target="_blank" skinid="ht_url" tilt="-32.61" description="" url="PDF/Mustermagazin-2.pdf" id="Point03"/>
@@ -100,16 +100,16 @@
       <preview strip="1" color="0x808080"/>
     </input>
     <view fovmode="0" pannorth="0">
-      <start pan="0" fov="70" tilt="0" projection="4"/>
-      <flyin pan="0" fov="170" tilt="-90" projection="9"/>
-      <min pan="0" fovpixel="2" tilt="-90"/>
-      <max pan="360" fovfisheye="360" fov="120" fovstereographic="270" tilt="90" scaletofit="1"/>
+      <start pan="0" fov="93" tilt="0" projection="4"/>
+      <flyin pan="0" fov="93" tilt="0" projection="4"/>
+      <min pan="0" fov="90" tilt="-90"/>
+      <max pan="360" fovfisheye="360" fov="90" fovstereographic="270" tilt="90" scaletofit="1"/>
     </view>
     <userdata title="" datetime="" copyright="" source="" info="" longitude="" description="" author="" tags="Desktop" nodeid="node5" comment="" customnodeid="" latitude="" heading="0"/>
     <hotspots height="20" width="180" wordwrap="1">
       <label background="1" borderradius="1" enabled="1" bordercolor="0x000000" backgroundcolor="0xffffff" height="20" backgroundalpha="1" border="1" textcolor="0x000000" borderalpha="1" width="180" textalpha="1" wordwrap="1"/>
       <polystyle mode="0" handcursor="1" bordercolor="0x0000ff" backgroundcolor="0x0000ff" backgroundalpha="0.25098" borderalpha="1"/>
-      <hotspot title="" pan="-354.75" target="_blank" skinid="ht_player" tilt="-20.42" description="" url="" id="Point01"/>
+      <hotspot title="" pan="-354.75" target="_blank" skinid="ht_player" tilt="-20.5" description="" url="" id="Point01"/>
       <hotspot title="Mustermagazin, 1" pan="-264.56" target="_blank" skinid="ht_url" tilt="-32.33" description="" url="PDF/Mustermagazin-1.pdf" id="Point03"/>
       <hotspot title="Mustermagazin, 1" pan="-277.95" target="_blank" skinid="ht_url" tilt="-32.64" description="" url="PDF/Mustermagazin-2.pdf" id="Point03"/>
       <hotspot title="Mustermagazin, 1" pan="-290.37" target="_blank" skinid="ht_url" tilt="-31.09" description="" url="PDF/Mustermagazin-3.pdf" id="Point03"/>
